@@ -1,0 +1,21 @@
+{
+  "name": "echoza-website",
+  "version": "1.0.0",
+  "description": "Music upload platform starter for artists",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "music",
+    "upload",
+    "artists"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2"
+  }
+}
